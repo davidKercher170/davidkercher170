@@ -29,6 +29,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"  alt="php" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg"  alt="php" width="45" height="45"/>
 </p>
-
-
-![Snake animation](https://github.com/davidkercher170/davidkercher170/blob/output/github-contribution-grid-snake.svg)

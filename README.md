@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Github!&fontSize=40&animation=fadeIn&stroke=000000)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=220&section=header&text=Welcome%20to%20my%20Github!&fontSize=45&animation=fadeIn&stroke=000000)
 
 - 🔭 I’m currently working on _Heir to Olympus_, an IOS Strategy game set in Mythological Greece.
 - 🤔 I’m currently reading about new approaches to Reinforcement Learning and Anomaly Detection.

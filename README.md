@@ -7,7 +7,6 @@
   -  New Approaches to Reinforcement Learning
   -  Attention Mechanisms in Residual Convolutional Networks.
 - 👯 I’m looking to collaborate on game development with inteligent AI!
-- ⚡ Fun fact: I love anything outdoors. Some of my most productive coding has been done in the mountains.
 - 📫 How to reach me: daveek170@gmail.com
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>

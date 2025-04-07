@@ -29,3 +29,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"  alt="php" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg"  alt="php" width="45" height="45"/>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidkercher170)](https://github.com/davidkercher170/github-readme-stats)

@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=250&section=header&text=Welcome%20to%20my%20Github!&fontSize=50&animation=fadeIn&stroke=000000)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=250&section=header&text=Welcome%20to%20my%20Github!&fontSize=48&animation=fadeIn&stroke=000000)
 
 - 🔭 I’m currently working on:
   -  _Heir to Olympus_, an IOS Strategy game set in Mythological Greece.

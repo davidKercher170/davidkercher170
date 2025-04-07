@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=250&section=header&text=Welcome%20to%20my%20Github!&fontSize=48&animation=fadeIn&stroke=000000)
 
-- 🔭 I’m currently working on:
+- :fire: I’m currently working on:
   -  _Heir to Olympus_, an IOS Strategy game set in Mythological Greece.
   -  An Analysis of Recent Anomaly Detection Algorithms.
 - 🤔 I’m currently reading about:
   -  New Approaches to Reinforcement Learning
   -  Attention Mechanisms in Residual Convolutional Networks.
-- 👯 I’m looking to collaborate on game development with inteligent AI!
+- :star: I’m looking to collaborate on game development with inteligent AI!
 - 📫 How to reach me: daveek170@gmail.com
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>

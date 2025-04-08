@@ -6,7 +6,7 @@
 - 🤔 I’m currently reading about:
   -  New Approaches to Reinforcement Learning
   -  Attention Mechanisms in Residual Convolutional Networks.
-- :star: I’m looking to collaborate on game development with inteligent AI!
+- :star: I’m looking to collaborate on game development with intelligent AI!
 - 📫 How to reach me: daveek170@gmail.com
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
